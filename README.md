@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Vargas</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Draxter Industry Wear](https://github.com/Danik616/Draxter)
+- 🔭 I’m currently working on [Litigando.com](https://www.litigando.com/)
 
 - 🌱 I’m currently learning **More about Springboot y Nodejs**
 
